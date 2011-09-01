@@ -19,6 +19,10 @@ The standard:
 
     gem install rubygal
 
+## Testing
+
+rspec spec/integration/generate_gallery.rb  (it will be moved to Rakefile soon ;)
+
 ## License
 
 MIT license
@@ -27,4 +31,4 @@ MIT license
 
 * tjeden
 * tomash
-
+* phocke
