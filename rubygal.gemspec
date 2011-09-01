@@ -23,6 +23,6 @@ Gem::Specification.new do |s|
   s.executables   = ["rubygal"]
   s.require_paths = ["lib"]
 
-  s.add_dependency("rmagic",  "~> 2.13.1")
+  s.add_dependency("rmagick",  "~> 2.13.1")
   s.add_dependency("bundler", "~> 1.0")
 end
