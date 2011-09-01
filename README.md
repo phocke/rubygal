@@ -21,7 +21,7 @@ The standard:
 
 ## Testing
 
-rspec spec/integration/generate_gallery.rb  (it will be moved to Rakefile soon ;)
+    rspec spec/integration/generate_gallery.rb  (it will be moved to Rakefile soon ;)
 
 ## License
 
